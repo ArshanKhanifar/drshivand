@@ -1,0 +1,16 @@
+.drshivand-app {
+  #header {
+    padding: 20px 0;
+    .navbar-brand {
+      img {
+        max-height: 40px;
+      }
+    }
+  }
+  .container {
+    .bg-light {
+      background: white !important;
+    }
+    max-width: 1320px;
+  }
+}
